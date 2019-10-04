@@ -5,3 +5,5 @@ This application will keep track of the user's alcohol intake along with other v
 
 
 ![alt text](https://github.com/hyy9679/AlcoholApp/blob/master/Images/GUI1.png)
+
+![alt text](https://github.com/hyy9679/AlcoholApp/blob/master/Images/GUI2.png)
